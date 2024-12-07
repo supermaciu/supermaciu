@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @supermaciu
-- 👀 I’m interested in programming; Python, C++, C#, HTML, JS, PHP, even PICO-8.
-- 🌱 I’m currently learning C++ and PHP.
-- 📫 How to reach me
-     - e-mail: m.jankowski2605@gmail.com
+cpp superior
